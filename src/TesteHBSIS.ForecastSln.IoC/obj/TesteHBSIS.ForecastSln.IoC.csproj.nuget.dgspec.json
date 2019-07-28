@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.IoC\\TesteHBSIS.ForecastSln.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Application\\TesteHBSIS.ForecastSln.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Application\\TesteHBSIS.ForecastSln.Application.csproj",
+        "projectName": "TesteHBSIS.ForecastSln.Application",
+        "projectPath": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Application\\TesteHBSIS.ForecastSln.Application.csproj",
+        "packagesPath": "C:\\Users\\Luan - Note\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Luan - Note\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Domain\\TesteHBSIS.ForecastSln.Domain.csproj": {
+                "projectPath": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Domain\\TesteHBSIS.ForecastSln.Domain.csproj"
+              },
+              "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Infra\\TesteHBSIS.ForecastSln.Infra.csproj": {
+                "projectPath": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Infra\\TesteHBSIS.ForecastSln.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Domain\\TesteHBSIS.ForecastSln.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Domain\\TesteHBSIS.ForecastSln.Domain.csproj",
+        "projectName": "TesteHBSIS.ForecastSln.Domain",
+        "projectPath": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Domain\\TesteHBSIS.ForecastSln.Domain.csproj",
+        "packagesPath": "C:\\Users\\Luan - Note\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Luan - Note\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Infra\\TesteHBSIS.ForecastSln.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Infra\\TesteHBSIS.ForecastSln.Infra.csproj",
+        "projectName": "TesteHBSIS.ForecastSln.Infra",
+        "projectPath": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Infra\\TesteHBSIS.ForecastSln.Infra.csproj",
+        "packagesPath": "C:\\Users\\Luan - Note\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Luan - Note\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Domain\\TesteHBSIS.ForecastSln.Domain.csproj": {
+                "projectPath": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Domain\\TesteHBSIS.ForecastSln.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.IoC\\TesteHBSIS.ForecastSln.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.IoC\\TesteHBSIS.ForecastSln.IoC.csproj",
+        "projectName": "TesteHBSIS.ForecastSln.IoC",
+        "projectPath": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.IoC\\TesteHBSIS.ForecastSln.IoC.csproj",
+        "packagesPath": "C:\\Users\\Luan - Note\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Luan - Note\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Application\\TesteHBSIS.ForecastSln.Application.csproj": {
+                "projectPath": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Application\\TesteHBSIS.ForecastSln.Application.csproj"
+              },
+              "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Infra\\TesteHBSIS.ForecastSln.Infra.csproj": {
+                "projectPath": "C:\\Users\\Luan - Note\\source\\repos\\TesteHBSIS.ForecastSln\\src\\TesteHBSIS.ForecastSln.Infra\\TesteHBSIS.ForecastSln.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

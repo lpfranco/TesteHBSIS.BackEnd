@@ -1,0 +1,9 @@
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Domain\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Domain.deps.json
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Domain\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Domain.dll
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Domain\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Domain.pdb
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Domain\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Domain.csprojAssemblyReference.cache
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Domain\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Domain\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Domain.AssemblyInfoInputs.cache
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Domain\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Domain.AssemblyInfo.cs
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Domain\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Domain.dll
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Domain\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Domain.pdb

@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteHBSIS.ForecastSln.Domain\TesteHBSIS.ForecastSln.Domain.csproj" />
+    <ProjectReference Include="..\TesteHBSIS.ForecastSln.Infra\TesteHBSIS.ForecastSln.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

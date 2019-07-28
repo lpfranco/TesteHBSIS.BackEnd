@@ -1,0 +1,12 @@
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Infra\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Domain.dll
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Infra\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Infra\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Infra.AssemblyInfoInputs.cache
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Infra\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Infra.AssemblyInfo.cs
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Infra\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Infra.deps.json
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Infra\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Infra.dll
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Infra\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Infra.pdb
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Infra\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Domain.pdb
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Infra\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Infra.csprojAssemblyReference.cache
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Infra\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Infra.csproj.CopyComplete
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Infra\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Infra.dll
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Infra\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Infra.pdb

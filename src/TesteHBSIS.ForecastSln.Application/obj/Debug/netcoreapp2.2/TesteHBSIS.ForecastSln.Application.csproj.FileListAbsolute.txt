@@ -1,0 +1,14 @@
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Domain.dll
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Infra.dll
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Application.csprojAssemblyReference.cache
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Application.csproj.CoreCompileInputs.cache
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Application.AssemblyInfoInputs.cache
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Application.AssemblyInfo.cs
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Application.deps.json
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Application.dll
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Application.pdb
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Domain.pdb
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\bin\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Infra.pdb
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Application.csproj.CopyComplete
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Application.dll
+C:\Users\Luan - Note\source\repos\TesteHBSIS.ForecastSln\src\TesteHBSIS.ForecastSln.Application\obj\Debug\netcoreapp2.2\TesteHBSIS.ForecastSln.Application.pdb
